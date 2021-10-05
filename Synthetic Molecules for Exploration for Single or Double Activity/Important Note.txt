@@ -1,0 +1,3 @@
+The data base is converted from an .xlsx file to a .xlsb(Binary Wordbook) in order to reduce the size of it.
+GitHub has the limit of 25Mb per file, so ...
+If you want to use this database just convert the file to a .xlsx !
